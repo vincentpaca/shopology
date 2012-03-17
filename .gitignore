@@ -16,3 +16,5 @@
 
 #simplecov
 coverage
+
+.autotest

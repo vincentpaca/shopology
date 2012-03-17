@@ -6,9 +6,4 @@ require 'rails/test_help'
 require 'factory_girl_rails'
 
 class ActiveSupport::TestCase
-
-end
-
-class ActionController::TestCase
-  include Devise::TestHelpers
 end

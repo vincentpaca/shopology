@@ -2,8 +2,9 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.0'
 gem 'mysql2'
-gem 'devise'
 gem 'gon'
+gem 'omniauth-facebook'
+gem 'fb_graph'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
